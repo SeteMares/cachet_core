@@ -145,6 +145,7 @@ return [
         'en' => 'English',
         'en_GB' => 'English (UK)',
         'es_ES' => 'Spanish (ES)',
+        'ja' => '日本語',
         'ko' => '한국어',
         'nl' => 'Nederlands',
         'ph' => 'Filipino',
